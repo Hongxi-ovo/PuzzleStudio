@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "cards": 15618,
+  "cardScripts": 14163,
+  "scriptFiles": 14166,
+  "pictureSource": "YGOMobile bundled pics.zip",
+  "files": {
+    "database.json.gz": {
+      "bytes": 2921679,
+      "sha256": "68abee0ac4710bd9bf95cc76736fb84ae5073c91ea54f8bc2c243969ad5d2013"
+    },
+    "scripts.zip": {
+      "bytes": 14312418,
+      "sha256": "284ba5e71ab1bebb8109c964dfc2007f9c898d616c8c6978a4123b9cf8c95754"
+    },
+    "pics.zip": {
+      "bytes": 327127879,
+      "sha256": "b3f033735eeba43ad66220630fe10228479d3406716e070353efcf4fbc6614fd"
+    },
+    "cover.jpg": {
+      "bytes": 132151,
+      "sha256": "dba0ed9d087c62b4518d27a3aa07c4c89e78335c5a5a5b4aff2cfcb3ba2f7414"
+    }
+  }
+}

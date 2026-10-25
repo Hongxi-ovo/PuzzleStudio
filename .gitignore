@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.local-setup/
+.venv/
+venv/
+Dist/
+build/
+*.log
+.env
+.env.*
+!.env.example
+Puzzle/
+*.puzzle.json
+Tools/PuzzleEditor/resources/pics.zip
+Tools/PuzzleEditor/resources/*.download-*
